@@ -15,6 +15,8 @@
 #ifndef DETAIL__ZENOH_UTILS_HPP_
 #define DETAIL__ZENOH_UTILS_HPP_
 
+#include <functional>
+
 #include <zenoh.hxx>
 
 #include <array>
